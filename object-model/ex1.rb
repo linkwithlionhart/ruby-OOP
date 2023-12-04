@@ -6,7 +6,7 @@ end
 new_object = ThisObject.new
 p new_object
 
-# Solution
+# Example Solution
 class MyClass
 end
 
